@@ -1,0 +1,3 @@
+[submodule "spreadsheets-api"]
+	path = spreadsheets-api
+	url = git@github.com:ricardoebbers/spreadsheets-api.git
